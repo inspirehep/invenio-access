@@ -50,7 +50,7 @@ setup_requires = [
 
 install_requires = [
     'invenio-admin>=1.2.0',
-    'invenio-accounts>=1.4.13',
+    'invenio-accounts',
     'invenio-base>=1.2.11',
     'invenio-i18n>=1.3.2',
 ]
